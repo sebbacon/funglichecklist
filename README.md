@@ -8,6 +8,7 @@ I needed personal research project: specifically, to map obselete species names 
 
 That mapping is available as [`flattened_synonyms_to_root_canonical.csv`](./flattened_synonyms_to_root_canonical.csv).
 
+UPDATE: turns out after all that work the checklist is now available at https://frdbi.org.uk/, although behind a login.
 
 # About this repo
 
